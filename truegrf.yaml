@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f1b62d67
+license: CC-BY-4.0
+name: oldbuildingsset
 type: industry
+url: https://github.com/kedzior3/oldbuildingsset
 version: 6
